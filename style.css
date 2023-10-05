@@ -1,0 +1,23 @@
+/* Letters */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+  }
+  
+  /* Colors */
+  h1 {
+    color: red;
+  }
+  
+  h2 {
+    color: blue;
+  }
+  
+  p {
+    color: black;
+  }
+  
+  /* Background color */
+  body {
+    background-color: white;
+  }
